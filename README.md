@@ -1,4 +1,4 @@
-# 9 Implementation of Encryption and Decryption- Code-block
+[# 9 Implementation of Encryption and Decryption- Code-block
 ## IMPLEMENTATION OF ENCRYPTION AND DECRYPTION
 ## AIM:
 ## To implement encryption and decryption using C program.
@@ -114,3 +114,4 @@ SAMPLE OUTPUT:
 <img width="1920" height="1080" alt="212222060192_E D" src="https://github.com/user-attachments/assets/6bc3352a-7356-4dd0-be36-e8a93315f0df" />
 RESULT:
 Thus the encryption and decryption is implemented and the output is obtained and verified successfully
+](https://app.qr-code-generator.com/)
